@@ -1,6 +1,7 @@
 # messageProcessing
 
-DESCRIPTION
+DESCRIPTION: 
+
 This project was implemented to create log file according to incoming sales messages.
 There are 3 type of messages:
 o Message Type 1 – contains the details of 1 sale E.g apple at 10p
@@ -104,6 +105,6 @@ Steps that followed by myself:
 
 •	Not:  to read data from file I added my test file path, so if you want to test, you have to change the path inside of main. There are 4 different test data:
   1.	Correct data and has more than 50 operations.
-  2.	Wrong  message format data
+  2.	Wrong  message format data : such as: apple apple 10p
   3.	Empty file
-  4.	Wrong  message format data
+  4.	Wrong  message format data : such as: 10p at apple
