@@ -1,0 +1,17 @@
+Product Type 	 Product Value 	 Operation Type  
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	subtract 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+apple	20	add 
+banana	20	add 
+banana	20	add 
